@@ -1,0 +1,3 @@
+# version
+get version information from java
+`java -version`
