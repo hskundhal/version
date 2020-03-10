@@ -1,0 +1,3 @@
+# To get version information out from confluent 
+From one of kafka-node
+`kafka-topics --version`
